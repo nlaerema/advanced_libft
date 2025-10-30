@@ -56,8 +56,6 @@ SRC 		= alloc/ft_alloc_init.c\
 			  lst/ft_lstsort_merge.c\
 			  math/ft_exp.c\
 			  mem/ft_bzero.c\
-			  mem/ft_calloc.c\
-			  mem/ft_malloc.c\
 			  mem/ft_memchr.c\
 			  mem/ft_memchrset.c\
 			  mem/ft_memcmp.c\
@@ -65,9 +63,6 @@ SRC 		= alloc/ft_alloc_init.c\
 			  mem/ft_memdup.c\
 			  mem/ft_memmove.c\
 			  mem/ft_memset.c\
-			  mem/ft_realloc.c\
-			  pipex/ft_execve.c\
-			  pipex/ft_pipex.c\
 			  printf/ft_check.c\
 			  printf/ft_dprintf.c\
 			  printf/ft_hexa.c\

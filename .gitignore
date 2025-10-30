@@ -2,6 +2,7 @@
 *.pdf
 *.swp
 *.o
+libft.a
 a.out
 minilibx
 libft
